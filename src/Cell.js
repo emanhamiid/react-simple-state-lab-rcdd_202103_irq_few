@@ -1,5 +1,4 @@
-0000000000000000
-11:02
+
 import React, { Component } from 'react';
    export default class Cell extends Component {
      constructor(props) {
